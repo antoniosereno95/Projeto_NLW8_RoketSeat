@@ -35,7 +35,7 @@ export function FeedbackContentStep(props: FeedbackTypeProps ){
                     <textarea 
                     className="min-w-[304px] w-full min-h-[112px] text-sm placeholder-zinc-400 text-zinc-100 border-zinc-600 bg-transparent rounded-md
                     focus:border-brand-500 focus:ring-brand-500 focus-ring-1 resize-none
-                    focus-outline-none"
+                    focus-outline-none scrollbar-thin scrollbar-thumb-zinc-700 scrollbar-track-transparent "
                     placeholder="Conte com detalhes oq esta acontecendo..."
                     />
                 </form>
